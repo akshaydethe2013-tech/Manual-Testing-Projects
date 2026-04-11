@@ -1,1 +1,1 @@
-I tested a e-commerce website.
+I tested an e-commerce website.
